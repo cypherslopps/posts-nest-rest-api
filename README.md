@@ -6,5 +6,5 @@ A basic Blog Rest API.
 NestJS as the backend framework
 Prisma as the Object-Relational Mapper (ORM)
 PostgreSQL as the database
-Swagger as the API documentation tool
+Documented REST API usin Swagger
 TypeScript
